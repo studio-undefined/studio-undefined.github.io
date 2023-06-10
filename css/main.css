@@ -12,3 +12,7 @@ body {
     font-family: 'Lato';
     src: url("/static/fonts/Lato-Regular.ttf");
 }
+
+footer {
+    text-align: center;
+}
