@@ -2,8 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://studio-undefined.github.io/index.html</loc>
-        <lastmod>2023-06-07</lastmod>
+        <lastmod>2023-06-10</lastmod>
         <priority>1.00</priority>
         <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://studio-undefined.github.io/PowerGIF/PowerGIF.html</loc>
+        <lastmod>2023-6-10</lastmod>
+        <priority>0.6</priority>
     </url>
 </urlset>
