@@ -1,0 +1,14 @@
+body {
+    background-color: wheat;
+    font-family: 'Lato', sans-serif;
+}
+
+@font-face {
+    font-family: 'ProggyVector';
+    src: url("/static/fonts/ProggyVector Regular.ttf");
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url("/static/fonts/Lato-Regular.ttf");
+}
